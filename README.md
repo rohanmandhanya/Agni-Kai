@@ -4,6 +4,8 @@ We used 3 Sensors-<br>
 1. LPG Gas Sensor<br>
 2. Heat Sensor<br>
 3. Smoke Sensor<br>
-## Technologies
-### Arduino Software-
-[Arduino](https://www.arduino.cc/en/Main/Software) use embedded C to code.<p>
+## Technologies used-
+### Arduino:
+[Arduino](https://www.arduino.cc/en/Main/Software) UNO was used to asmeble the device and used embedded C to code for the microcontroller.</p>
+### Android:
+[Java] was used to code for the application development.
