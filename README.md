@@ -8,4 +8,4 @@ We used 3 Sensors-<br>
 ### Arduino:
 [Arduino](https://www.arduino.cc/en/Main/Software) UNO was used to asmeble the device and used embedded C to code for the microcontroller.</p>
 ### Android:
-[Java] was used to code for the application development.
+Java was used to code for the application development.
